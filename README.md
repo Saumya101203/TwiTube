@@ -33,7 +33,36 @@ https://twitube.vercel.app/
 
 ## Glimpses of Website
 
+#### Registration Page
 ![Registration Page](https://github.com/Saumya101203/TwiTube/blob/main/Pictures/Registration%20Page.png)
+
+#### Login Page
+![Login Page](https://github.com/Saumya101203/TwiTube/blob/main/Pictures/Login%20Page.png)
+
+#### Home Page
+![Home Page](https://github.com/Saumya101203/TwiTube/blob/main/Pictures/Home%20Page.png)
+
+#### Subscriptions Page
+<p float="left">
+  <img src="https://github.com/Saumya101203/TwiTube/blob/main/Pictures/Subscriptions%20Tab%20Videos.png" alt="Subscriptions Page Videos" width="45%" />
+  <img src="https://github.com/Saumya101203/TwiTube/blob/main/Pictures/Subscriptions%20Tab%20Tweets.png" alt="Subscriptions Page Tweets" width="45%" />
+</p>
+
+#### Your Profile Page
+<p float="left">
+  <img src="https://github.com/Saumya101203/TwiTube/blob/main/Pictures/Your%20Profile%20Videos.png" alt="Your Profile Videos" width="45%" />
+  <img src="https://github.com/Saumya101203/TwiTube/blob/main/Pictures/Your%20Profile%20Tweets.png" alt="Your Profile Tweets" width="45%" />
+  <img src="https://github.com/Saumya101203/TwiTube/blob/main/Pictures/Your%20Profile%20Playlist.png" alt="Your Profile Playlists" width="45%" />
+</p>
+
+#### Add Video Page
+![Add Video Page](https://github.com/Saumya101203/TwiTube/blob/main/Pictures/Video%20Upload%20Page.png)
+
+#### Add Tweet Page
+![Add Tweet Page](https://github.com/Saumya101203/TwiTube/blob/main/Pictures/Tweet%20Add%20Page.png)
+
+#### Watch History Page
+![Watch History Page](https://github.com/Saumya101203/TwiTube/blob/main/Pictures/Watch%20History.png)
 
 ## Installation
 - Clone the repository

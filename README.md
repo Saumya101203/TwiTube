@@ -31,6 +31,10 @@ Twitube is a subscription-based video-sharing platform designed to foster commun
 Access the deployed application here:
 https://twitube.vercel.app/
 
+## Glimpses of Website
+
+![Registration Page](https://github.com/Saumya101203/TwiTube/blob/main/Pictures/Registration%20Page.png)
+
 ## Installation
 - Clone the repository
 

@@ -36,12 +36,13 @@ const VideoComment = ({ videoId, userToken }) => {
       return;
     }
     setLoading(true);
+    const backendBaseUrl = import.meta.env.VITE_BACKEND_BASEURL;
     try {
       await axios.post(
-        `/api/v1/comments/${videoId}`,
-        { content: newCommentContent },
-        { headers: { Authorization: `Bearer ${userToken}` } }
-      );
+  `${backendBaseUrl}/api/v1/comments/${videoId}`,
+  { content: newCommentContent },
+  { headers: { Authorization: `Bearer ${userToken}` } }
+);
       setNewCommentContent("");
       fetchComments();
     } catch (err) {

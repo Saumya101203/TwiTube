@@ -50,9 +50,9 @@ https://twitube.vercel.app/
 
 #### Your Profile Page
 <p float="left">
-  <img src="https://github.com/Saumya101203/TwiTube/blob/main/Pictures/Your%20Profile%20Videos.png" alt="Your Profile Videos" width="33%" />
-  <img src="https://github.com/Saumya101203/TwiTube/blob/main/Pictures/Your%20Profile%20Tweets.png" alt="Your Profile Tweets" width="33%" />
-  <img src="https://github.com/Saumya101203/TwiTube/blob/main/Pictures/Your%20Profile%20Playlist.png" alt="Your Profile Playlists" width="33%" />
+  <img src="https://github.com/Saumya101203/TwiTube/blob/main/Pictures/Your%20Profile%20Videos.png" alt="Your Profile Videos" width="30%" />
+  <img src="https://github.com/Saumya101203/TwiTube/blob/main/Pictures/Your%20Profile%20Tweets.png" alt="Your Profile Tweets" width="30%" />
+  <img src="https://github.com/Saumya101203/TwiTube/blob/main/Pictures/Your%20Profile%20Playlist.png" alt="Your Profile Playlists" width="30%" />
 </p>
 
 #### Add Video Page

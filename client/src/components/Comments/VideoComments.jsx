@@ -12,9 +12,10 @@ const VideoComment = ({ videoId, userToken }) => {
     setLoading(true);
     setError(null);
     try {
-      const response = await axios.get(`/api/v1/comments/${videoId}`, {
-        headers: { Authorization: `Bearer ${userToken}` },
-      });
+    const backendBaseUrl = import.meta.env.VITE_BACKEND_BASEURL;
+      const response = await axios.get(`${backendBaseUrl}/api/v1/comments/${videoId}`, {
+  headers: { Authorization: `Bearer ${userToken}` },
+});
 
       const data = response.data.data;
       setComments(data.comments);

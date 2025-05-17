@@ -93,9 +93,9 @@ npm install
   ```
   
     - Frontend
-      ```
-      npm run dev
-      ```
+  ```
+     npm run dev
+  ```
 ## Usage
 - Register or login to your account.
 

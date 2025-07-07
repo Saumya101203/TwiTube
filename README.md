@@ -31,7 +31,7 @@ Twitube is a subscription-based video-sharing platform designed to foster commun
 - Access the deployed application here:
 https://twitube.vercel.app/
 - Test Credentials:
-      Use the following credentials to explore the platform:
+       Use the following credentials to explore the platform:
      - 📧 Email: x@gmail.com
      - 🔐 Password: xxx
 ## Glimpses of Website

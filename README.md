@@ -28,12 +28,12 @@ Twitube is a subscription-based video-sharing platform designed to foster commun
 - API communication with Axios
 
 ## Live Demo
-Access the deployed application here:
+- Access the deployed application here:
 https://twitube.vercel.app/
-Test Credentials
-Use the following credentials to explore the platform:
-- 📧 Email: x@gmail.com
-- 🔐 Password: xxx
+- Test Credentials
+- Use the following credentials to explore the platform:
+     - 📧 Email: x@gmail.com
+     - 🔐 Password: xxx
 ## Glimpses of Website
 
 #### Registration Page

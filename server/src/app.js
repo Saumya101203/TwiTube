@@ -29,6 +29,7 @@ const corsOptions = {
 };
 
 app.use(cors(corsOptions));
+app.options("*", cors(corsOptions));
 app.use(cookieParser());
 
 // Middleware to parse JSON and URL-encoded data

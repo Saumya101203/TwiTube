@@ -29,7 +29,7 @@ Twitube is a subscription-based video-sharing platform designed to foster commun
 
 ## Live Demo
 - Access the deployed application here:
-https://twitube-saumyas-projects-244c25d1.vercel.app/
+https://twitube.vercel.app/
 - Test Credentials:
        Use the following credentials to explore the platform:
      - 📧 Email: x@gmail.com

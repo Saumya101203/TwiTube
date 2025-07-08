@@ -42,6 +42,9 @@ app.get("/", (_, response) => {
   response.status(200).send("Server is working fine");
 });
 
+app.get("/ping", (_, res) => {
+  res.status(200).send("pong");
+});
 // Import Routes
 import userRouter from "./routes/user.routes.js";
 import tweetRouter from "./routes/tweet.routes.js";
